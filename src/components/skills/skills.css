@@ -32,7 +32,7 @@
 
 .skills__data {
     display: flex;
-    column-gap: 0, 5rem;
+    column-gap: 0.5rem;
 }
 
 .skills .bx-badge-check {
