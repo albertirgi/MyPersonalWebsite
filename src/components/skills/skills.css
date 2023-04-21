@@ -32,7 +32,7 @@
 
 .skills__data {
     display: flex;
-    column-gap: 0,5rem;
+    column-gap: 0, 5rem;
 }
 
 .skills .bx-badge-check {
@@ -50,50 +50,41 @@
     font-size: var(--tiny-font-size);
 }
 
+
 /*=================== BREAKPOINTS =================*/
+
+
 /* For large devices */
+
 @media screen and (max-width: 992px) {
-    .container {
-      margin-left: var(--mb-1-5);
-      margin-right: var(--mb-1-5);
+    .skills__container {
+        grid-template-columns: max-content;
+        row-gap: 2rem;
+
     }
-  
-    .button {
-      padding: 1rem 1.75rem;
+}
+
+
+/* For medium devices */
+@media screen and (max-width: 576px) {
+    .skills__container {
+        grid-template-columns: 1fr;
     }
-  
-    .button__icon {
-      width: 22px;
-      height: 22px;
+
+    .skills__content {
+        padding: 1.5rem;
     }
-  }
-  
-  /* For medium devices */
-  @media screen and (max-width: 768px) {
-    body {
-      margin: 0 0 var(--header-height);
+}
+
+
+/* For small devices */
+
+@media screen and (max-width: 350px) {
+    .skills__box {
+        column-gap: 1.25rem;
     }
-  
-    .section {
-      padding: 2rem 0 4rem;
+
+    .skills__name {
+        font-size: var(--small-font-size);
     }
-  
-    .section__subtitle {
-      margin-bottom: var(--mb-3);
-    }
-  }
-  
-  @media screen and (max-width: 576px) {
-  }
-  
-  /* For small devices */
-  @media screen and (max-width: 350px) {
-    :root {
-      --big-font-size: 2.25rem;
-    }
-  
-    .container {
-      margin-left: var(--mb-1);
-      margin-right: var(--mb-1);
-    }
-  }
+}
