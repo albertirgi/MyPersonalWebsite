@@ -6,7 +6,7 @@ const Services = () => {
 
     const toggleTab = (index) => {
         setToggleState(index);
-    }
+    };
   return (
     <section className="services section" id="services">
         <h2 className="section__title">Services</h2>
