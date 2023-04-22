@@ -6,6 +6,7 @@
 
 .about__img {
     width: 350px;
+    height: 390px;
     border-radius: 1.5rem;
     justify-self: center;
 }
@@ -54,6 +55,7 @@
 
     .about__img {
         width: 220px;
+        height: auto;
     }
 
     .about__box {
