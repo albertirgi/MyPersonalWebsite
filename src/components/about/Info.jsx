@@ -4,24 +4,24 @@ const Info = () => {
   return (
     <div className="about__info grid">
         <div className="about__box">
-            <i class='bx bx-award about__icon' ></i>
+            <i class='bx bx-code-alt about__icon' ></i>
 
-            <h3 className="about__title">Experience</h3>
+            <h3 className="about__title">Code</h3>
             <span className="about__subtitle">3 Years of Coding</span>
         </div>
 
         <div className="about__box">
-            <i class='bx bx-briefcase-alt about__icon' ></i>
+            <i class='bx bx-paint about__icon' ></i>
         
-            <h3 className="about__title">Completed</h3>
-            <span className="about__subtitle">2 Projects</span>
+            <h3 className="about__title">Design</h3>
+            <span className="about__subtitle">Creative Thinker</span>
         </div>
 
         <div className="about__box">
-            <i class='bx bx-support about__icon' ></i>
+            <i class='bx bx-brain about__icon' ></i>
 
-            <h3 className="about__title">Support</h3>
-            <span className="about__subtitle">Online 24/7</span>
+            <h3 className="about__title">Learn</h3>
+            <span className="about__subtitle">Fast Learner</span>
         </div>
     </div>
   )
