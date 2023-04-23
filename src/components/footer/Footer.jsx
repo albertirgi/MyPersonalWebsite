@@ -31,6 +31,10 @@ const Footer = () => {
                 <a href="https://www.linkedin.com/in/albertirgi" className="footer__social-link" target="_blank">
                     <i class="bx bxl-linkedin"></i>
                 </a>
+
+                <a href="https://www.youtube.com/@albertirgi" className="footer__social-link" target="_blank">
+                    <i class="bx bxl-youtube"></i>
+                </a>
             </div>
 
             <span className='footer__copy'>

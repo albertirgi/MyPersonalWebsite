@@ -6,7 +6,7 @@ const ScrollUp = () => {
         const scrollUp = document.querySelector('.scrollup');
         if(this.scrollY >= 560) scrollUp.classList.add
         ("show-scroll")
-        else scrollUp.classList.remove("show-scrol")
+        else scrollUp.classList.remove("show-scroll")    
     })
 
     return (    
