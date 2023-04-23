@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "albertirgi",
+  "homepage": "https://albertirgi.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
