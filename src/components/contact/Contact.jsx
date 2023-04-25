@@ -32,12 +32,12 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-whatsapp contact__card-icon"></i>
+              <i className="bx bxl-linkedin contact__card-icon"></i>
 
-              <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">+62 81236280662</span>
+              <h3 className="contact__card-title">LinkedIn</h3>
+              <span className="contact__card-data">Albert Muhammad Irgi</span>
 
-              <a href="https://api.whatsapp.com/send?phone=6281236280662&text=Hello,%20more%20information!" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+              <a href="https://www.linkedin.com/in/albertirgi/" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
             </div>
 
             <div className="contact__card">
