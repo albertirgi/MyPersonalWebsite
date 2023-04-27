@@ -61,3 +61,57 @@
 .work__button:hover .work__button-icon {
     transform: translateX(0.25rem);
 }
+
+/*active work*/
+.active-work {
+    background-color: var(--title-color);
+    color: var(--container-color);
+}
+
+/*=================== BREAKPOINTS =================*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+    .work__container {
+        gap: 1.25rem;
+    }
+
+    .work__card {
+        padding: 1rem;
+    }
+
+    .work__img {
+        margin-bottom: 0.75rem;
+    }
+
+    .work__title {
+        margin-bottom: 0.25rem;
+    }
+  }
+
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+    .work__container {
+        grid-template-columns: max-content;
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    .work__container {
+        grid-template-columns: 1fr;
+    }
+
+    .work__img {
+        width: 100%;
+    }
+  }
+
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+    .work__item {
+        font-size: var(--small-font-size);
+    }
+
+    .work__filters {
+        column-gap: 0.25rem;
+    }
+  }
