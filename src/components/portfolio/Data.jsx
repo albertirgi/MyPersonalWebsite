@@ -2,7 +2,9 @@ import React from "react";
 import Work1 from "../../assets/work1.png"
 import Work2 from "../../assets/work2.png"
 import Work3 from "../../assets/work3.png"
-import Work4 from "../../assets/work4.png";
+import Work4 from "../../assets/work4.png"
+import Work5 from "../../assets/work5.png"
+import Work6 from "../../assets/work6.png"
 
 export const projectsData = [
     {
@@ -28,6 +30,22 @@ export const projectsData = [
         category: 'web',
         link: 'https://github.com/albertirgi/My-Personal-Website',
         detail: 'Source Code',
+    },
+    {
+        id: 4,
+        image: Work5,
+        title: 'Employee Attendance - Website',
+        category: 'design',
+        link: 'https://www.figma.com/file/aLWphGaUBVDtdgbJctShAP/Employee-Attendance-Web---Website?type=design&node-id=1%3A2&t=PRdX9tIyzVZbq0Yf-1',
+        detail: 'View Design',
+    },
+    {
+        id: 5,
+        image: Work6,
+        title: 'Kasih.in - Charity App',
+        category: 'design',
+        link: 'https://www.figma.com/proto/OZjEFp7Ix8R0A9dpD60LoH/Kasih.in?type=design&node-id=187-1362&scaling=scale-down&page-id=0%3A1&starting-point-node-id=187%3A1362',
+        detail: 'View Design',
     },
 ];
 
