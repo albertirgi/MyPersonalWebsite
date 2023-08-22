@@ -29,8 +29,8 @@ export const projectsData = [
         image: Work4,
         title: '</> albertirgi </> - Personal Website',
         category: 'web',
-        link: '',
-        detail: 'Source Code',
+        link: 'https://albertirgi.vercel.app/',
+        detail: 'View Web',
     },
     {
         id: 4,
