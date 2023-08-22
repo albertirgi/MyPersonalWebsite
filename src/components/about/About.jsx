@@ -16,7 +16,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
 
-                <p className="about__description">I'm a motivated 6th semester Computer Science student with expertise in Mobile & Web Development and UI/UX design. I strive to add value to every project and constantly learn new things. My goal is to create user-centered tech solutions that improve people's lives.</p>
+                <p className="about__description">I'm a motivated 6th semester Computer Science student with expertise in Front-End Development and UI/UX design. I strive to add value to every project and constantly learn new things. My goal is to create user-centered tech solutions that improve people's lives.</p>
                 <a download="" href={CV} className="button button--flex">Download CV
                 {/* <svg
                 class="button__icon"

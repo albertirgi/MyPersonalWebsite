@@ -5,6 +5,7 @@ import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
+import Work7 from "../../assets/work7.png"
 
 export const projectsData = [
     {
@@ -28,7 +29,7 @@ export const projectsData = [
         image: Work4,
         title: '</> albertirgi </> - Personal Website',
         category: 'web',
-        link: 'https://github.com/albertirgi/My-Personal-Website',
+        link: '',
         detail: 'Source Code',
     },
     {
@@ -47,6 +48,14 @@ export const projectsData = [
         link: 'https://www.figma.com/proto/OZjEFp7Ix8R0A9dpD60LoH/Kasih.in?type=design&node-id=187-1362&scaling=scale-down&page-id=0%3A1&starting-point-node-id=187%3A1362',
         detail: 'View Design',
     },
+    {
+        id: 6,
+        image: Work7,
+        title: 'SummarAIze - AI Summarizer',
+        category: 'web',
+        link: 'https://summaraize-albertirgi.vercel.app/',
+        detail: 'View Web',
+    }
 ];
 
 export const projectsNav = [
