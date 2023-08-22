@@ -44,7 +44,7 @@ const Contact = () => {
               <i className="bx bxl-discord contact__card-icon"></i>
 
               <h3 className="contact__card-title">Discord</h3>
-              <span className="contact__card-data">bert#5840</span>
+              <span className="contact__card-data">albertirgi</span>
 
               <a href="https://discord.com/users/440791730309300264" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
             </div>
