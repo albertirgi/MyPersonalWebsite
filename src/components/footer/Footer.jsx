@@ -32,7 +32,7 @@ const Footer = () => {
                     <i class="bx bxl-linkedin"></i>
                 </a>
 
-                <a href="https://www.youtube.com/@albertirgi" className="footer__social-link" target="_blank">
+                <a href="https://www.youtube.com/@albertirgi_/" className="footer__social-link" target="_blank">
                     <i class="bx bxl-youtube"></i>
                 </a>
             </div>
