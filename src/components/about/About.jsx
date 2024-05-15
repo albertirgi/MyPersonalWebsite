@@ -16,9 +16,12 @@ const About = () => {
             <div className="about__data">
                 <Info />
 
-                <p className="about__description">I'm a motivated 6th semester Computer Science student with expertise in Front-End Development and UI/UX design. I strive to add value to every project and constantly learn new things. My goal is to create user-centered tech solutions that improve people's lives.</p>
+                <p className="about__description text-justify">
+                    I am an undergraduate Informatics student at Petra Christian University, specializing in Mobile & Web Development with a strong background in Frontend Web Development. Passionate about adding value and continuously learning, I aim to leverage my skills to create user-centered tech solutions that improve lives.
+                </p>
+
                 <a download="" href={CV} className="button button--flex">Download CV
-                {/* <svg
+                <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
@@ -42,7 +45,7 @@ const About = () => {
                 d="M11.25 17.7502H7.25C6.84 17.7502 6.5 17.4102 6.5 17.0002C6.5 16.5902 6.84 16.2502 7.25 16.2502H11.25C11.66 16.2502 12 16.5902 12 17.0002C12 17.4102 11.66 17.7502 11.25 17.7502Z"
                 fill="var(--container-color)"
                 ></path>
-                </svg> */}
+                </svg>
                 </a>
             </div>
         </div>

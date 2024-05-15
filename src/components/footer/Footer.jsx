@@ -32,13 +32,13 @@ const Footer = () => {
                     <i class="bx bxl-linkedin"></i>
                 </a>
 
-                <a href="https://www.youtube.com/@albertirgi_/" className="footer__social-link" target="_blank">
+                <a href="https://www.youtube.com/@albertirgi/" className="footer__social-link" target="_blank">
                     <i class="bx bxl-youtube"></i>
                 </a>
             </div>
 
             <span className='footer__copy'>
-                &#169; albertirgi. All rights reserved
+                Made with ❤ by {'</>'} albertirgi {'</>'} © 2023
             </span>
         </div>
     </footer>
