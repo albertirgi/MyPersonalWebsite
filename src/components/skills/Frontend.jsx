@@ -34,14 +34,6 @@ const Frontend = () => {
                 <div className="skills__data">
                     <i class='bx bxs-badge-check' ></i>
                     <div>
-                        <h3 className="skills__name">Bootstrap</h3>
-                        <span className="skills__level">Basic</span>
-                    </div>
-                </div>
-
-                <div className="skills__data">
-                    <i class='bx bxs-badge-check' ></i>
-                    <div>
                         <h3 className="skills__name">React</h3>
                         <span className="skills__level">Basic</span>
                     </div>
@@ -54,25 +46,17 @@ const Frontend = () => {
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
+
+                <div className="skills__data">
+                    <i class='bx bxs-badge-check' ></i>
+                    <div>
+                        <h3 className="skills__name">TypeScript</h3>
+                        <span className="skills__level">Basic</span>
+                    </div>
+                </div>
             </div>
 
             <div className="skills__group">
-                <div className="skills__data">
-                    <i class='bx bxs-badge-check' ></i>
-                    <div>
-                        <h3 className="skills__name">PostgreSQL</h3>
-                        <span className="skills__level">Basic</span>
-                    </div>
-                </div>
-                
-                <div className="skills__data">
-                    <i class='bx bxs-badge-check' ></i>
-                    <div>
-                        <h3 className="skills__name">C#</h3>
-                        <span className="skills__level">Basic</span>
-                    </div>
-                </div>
-
                 <div className="skills__data">
                     <i class='bx bxs-badge-check' ></i>
                     <div>
@@ -84,8 +68,16 @@ const Frontend = () => {
                 <div className="skills__data">
                     <i class='bx bxs-badge-check' ></i>
                     <div>
-                        <h3 className="skills__name">Python</h3>
-                        <span className="skills__level">Advanced</span>
+                        <h3 className="skills__name">Flutter</h3>
+                        <span className="skills__level">Basic</span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <i class='bx bxs-badge-check' ></i>
+                    <div>
+                        <h3 className="skills__name">Next.js</h3>
+                        <span className="skills__level">Basic</span>
                     </div>
                 </div>
 

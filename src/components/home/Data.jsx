@@ -6,8 +6,8 @@ const Data = () => {
         <h1 className="home__title">Albert Irgi{' '}
         <img className="home__hand" src="https://stefantopalovicdev.vercel.app/static/media/waving.1bae5fcfb51082b5c2b4.png" alt="waving_hand" />
         </h1>
-        <h3 className="home__subtitle">UI/UX & Front-End Developer</h3>
-        <p className="home__description">Hi, I'm Albert Muhammad Irgi. A passionate Front-End Developer based in Surabaya, Indonesia. 📍"</p>
+        <h3 className="home__subtitle">UI/UX & Front End Developer</h3>
+        <p className="home__description">Hi, I'm Albert Muhammad Irgi. A passionate Front End Developer based in Surabaya, Indonesia. 📍"</p>
 
         <a href="#contact" className="button button--flex">
             Say Hello

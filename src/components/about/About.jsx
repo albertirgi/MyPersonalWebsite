@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/about.png";
-import CV from "../../assets/CV-Albert.pdf";
+import CV from "../../assets/Resume_Albert-Muhammad-Irgi.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -17,10 +17,10 @@ const About = () => {
                 <Info />
 
                 <p className="about__description text-justify">
-                    I am an undergraduate Informatics student at Petra Christian University, specializing in Mobile & Web Development with a strong background in Frontend Web Development. Passionate about adding value and continuously learning, I aim to leverage my skills to create user-centered tech solutions that improve lives.
+                  Enthusiastic Software Engineer passionate about Front End Development, specializing in React. Experienced in creating clean, user-friendly UI/UX with modern technologies like React, Next.js, Tailwind CSS, and TypeScript.
                 </p>
 
-                <a download="" href={CV} className="button button--flex">Download CV
+                <a download="" href={CV} className="button button--flex">View Resume
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
