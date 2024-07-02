@@ -44,6 +44,11 @@ const TechStack = () => {
           src="https://skillicons.dev/icons?i=scss"
           alt="SCSS icons"
         />
+        <img
+          className="logos"
+          src="https://skillicons.dev/icons?i=flutter"
+          alt="Flutter icons"
+        />
     </div>
   );
 };
