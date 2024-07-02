@@ -2,7 +2,7 @@ import React from 'react';
 import "./home.css";
 import Social from './Social';
 import Data from './Data';
-import ScrollDown from './ScrollDown';
+import TechStack from './TechStack';
 
 const Home = () => {
   return (
@@ -16,7 +16,7 @@ const Home = () => {
                 <Data />
             </div>
 
-            <ScrollDown />
+            <TechStack />
         </div>
     </section>
   )

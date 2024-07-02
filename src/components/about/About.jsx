@@ -17,7 +17,11 @@ const About = () => {
                 <Info />
 
                 <p className="about__description text-justify">
-                  Enthusiastic Software Engineer passionate about Front End Development, specializing in React. Experienced in creating clean, user-friendly UI/UX with modern technologies like React, Next.js, Tailwind CSS, and TypeScript.
+                Hey, my name is Albert, and I'm a Frontend Developer. My passion is to create and develop a clean UI/UX for my users.
+                </p>
+
+                <p className="about__description text-justify">
+                My main stack currently is React/Next.js in combination with Tailwind CSS and TypeScript.
                 </p>
 
                 <a download="" href={CV} className="button button--flex">View Resume

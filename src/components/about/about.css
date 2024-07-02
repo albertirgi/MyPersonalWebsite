@@ -19,7 +19,7 @@
 .about__info {
     grid-template-columns: repeat(3, 140px);
     gap: 0,5rem;
-    margin-bottom: var(--mb-2);
+    margin-bottom: 20px;
 }
 
 .about__box {
@@ -47,7 +47,8 @@
 
 .about__description {
     padding: 0 0 0 0;
-    margin-bottom: var(--mb-2-5);
+    margin-bottom: 20px;
+    color: var(--title-color);
 }
 
 /*=================== BREAKPOINTS =================*/

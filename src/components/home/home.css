@@ -82,6 +82,8 @@
 
 .home__scroll {
     margin-left: 9.25rem;
+    align-items: center;
+    display: flex;
 }
 
 .wheel {
@@ -103,6 +105,10 @@
     font-weight: var(--font-medium);
     margin-right: var(--mb-0-25);
     margin-left: 2px;
+    border-right: 2px solid rgba(45, 46, 50, .5);
+    margin-right: 3rem;
+    padding-right: 2rem;
+    
 }
 
 .home__scroll-arrow {
@@ -114,6 +120,15 @@
     width: 48px;
     height: 48px;
 }
+
+.logos {
+    margin-right: 25px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.logos:hover {
+    transform: scale(1.2) translateY(-10px);
+  }
 
 /*=================== BREAKPOINTS =================*/
 /* For large devices */
