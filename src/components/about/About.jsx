@@ -24,7 +24,7 @@ const About = () => {
                 My main stack currently is React/Next.js in combination with Tailwind CSS and TypeScript.
                 </p>
 
-                <a download="" href={CV} className="button button--flex">View Resume
+                <a target="_blank" rel="noreferrer" href={CV} className="button button--flex">View Resume
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
