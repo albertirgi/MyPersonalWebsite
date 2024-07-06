@@ -40,7 +40,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Petra Christian University</h3>
                             <span className="qualification__subtitle">Bachelor's Degree - Computer Science</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2020 - Present
+                                <i className="uil uil-calendar-alt"></i> 2020 - 2024
                             </div>
                         </div>
 
