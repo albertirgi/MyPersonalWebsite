@@ -29,11 +29,11 @@ const TechStack = () => {
           src="https://skillicons.dev/icons?i=react"
           alt="React icons"
         />
-        <img
+{/*         <img
           className="logos"
           src="https://skillicons.dev/icons?i=next"
           alt="Next.js icons"
-        />
+        /> */}
         <img
           className="logos"
           src="https://skillicons.dev/icons?i=tailwind"
