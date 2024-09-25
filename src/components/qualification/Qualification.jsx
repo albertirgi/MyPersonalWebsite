@@ -89,7 +89,7 @@ const Qualification = () => {
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Front End Developer - Internship</h3>
+                            <h3 className="qualification__title">Frontend Developer - Internship</h3>
                             <span className="qualification__subtitle">PT. Komunal Group Indonesia</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> June - Nov 2023
