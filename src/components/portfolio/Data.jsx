@@ -6,6 +6,7 @@ import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.png"
+import Work8 from "../../assets/work8.jpeg"
 
 export const projectsData = [
     {
@@ -54,6 +55,14 @@ export const projectsData = [
         title: 'SummarAIze - AI Summarizer',
         category: 'web',
         link: 'https://summaraize-albertirgi.vercel.app/',
+        detail: 'View Web',
+    },
+    {
+        id: 7,
+        image: Work8,
+        title: 'Adiwarna 2024 - Event Showcase',
+        category: 'web',
+        link: 'https://adiwarna.petra.ac.id/',
         detail: 'View Web',
     }
 ];
