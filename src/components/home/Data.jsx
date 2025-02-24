@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
         <h1 className="home__title">Albert Irgi{' '}
-        <img className="home__hand" src="https://stefantopalovicdev.vercel.app/static/media/waving.1bae5fcfb51082b5c2b4.png" alt="waving_hand" />
+        <img className="home__hand" src="https://em-content.zobj.net/source/apple/96/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" alt="waving_hand" />
         </h1>
         <h3 className="home__subtitle">Front End Developer</h3>
         <p className="home__description">Hi, I'm Albert Muhammad Irgi. A passionate Front End Developer based in Surabaya, Indonesia. 📍</p>
