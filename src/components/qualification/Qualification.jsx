@@ -73,7 +73,7 @@ const Qualification = () => {
                   Petra Christian University
                 </h3>
                 <span className="qualification__subtitle">
-                  Bachelor's Degree - Computer Science
+                  Bachelor's Degree - Informatics
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2020 - 2024

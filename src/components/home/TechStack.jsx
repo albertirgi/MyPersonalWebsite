@@ -21,11 +21,6 @@ const TechStack = () => {
         />
         <img
           className="logos"
-          src="https://skillicons.dev/icons?i=ts"
-          alt="TypeScript icons"
-        />
-        <img
-          className="logos"
           src="https://skillicons.dev/icons?i=react"
           alt="React icons"
         />
