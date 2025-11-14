@@ -72,6 +72,20 @@ const Qualification = () => {
                     ? "qualification__content qualification__content-active" 
                     : "qualification__content"}>
                     <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Software Engineer - Freelance</h3>
+                            <span className="qualification__subtitle">ByteMe</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> Mar 2025 - Now
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                    </div>
+                    <div className="qualification__data">
                         <div></div>
 
                         <div>
@@ -80,10 +94,10 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">Frontend Developer - Full Time</h3>
+                            <h3 className="qualification__title">Frontend Developer - Contract</h3>
                             <span className="qualification__subtitle">ORDO Apps</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> Aug 2024 - Now
+                                <i className="uil uil-calendar-alt"></i> Aug 2024 - Oct 2025
                             </div>
                         </div>
                     </div>
